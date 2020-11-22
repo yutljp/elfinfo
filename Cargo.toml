@@ -1,6 +1,6 @@
 [package]
 name = "elfinfo"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["yutljp <contact@yutl.jp>"]
 edition = "2018"
 
