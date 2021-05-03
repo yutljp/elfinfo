@@ -3,7 +3,7 @@ binary static analysis tool like `readelf`, `checksec`.
 
 ## Installation
 ```install
-cargo install --git https://github.com/yutljp/elfinfo.git --branch=main
+cargo install --git https://github.com/yutljp/elfinfo.git --branch=first_release
 ```
 
 ## Usage
